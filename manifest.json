@@ -1,0 +1,11 @@
+{
+  "short_name":"Pxl PWA",
+  "name":"progresive web app PWA",
+  "icons":[{"src":"/PWA/assets/img/1314_logo_pxl_bol.png","type":"image/png","sizes":"1168x1168"},
+    {"src":"/PWA/assets/img/1314_logo_pxl_bol.png","type":"image/png","sizes":"1168x1168"}],
+  "start_url":"/PWA/index.html",
+  "background_color":"rgb(255,255,255)",
+  "theme_color":"rgb(54,54,54)",
+  "display":"fullscreen",
+  "scope": "/PWA/"
+}
