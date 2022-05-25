@@ -1,6 +1,6 @@
 {
-  "short_name":"Pxl PWA",
-  "name":"progresive web app PWA",
+  "short_name":"Pxl PWA 2",
+  "name":"progresive web app PWA 2",
   "icons":[{"src":"/PWA/assets/img/1314_logo_pxl_bol.png","type":"image/png","sizes":"1168x1168"},
     {"src":"/PWA/assets/img/1314_logo_pxl_bol.png","type":"image/png","sizes":"1168x1168"}],
   "start_url":"/PWA/index.html",
